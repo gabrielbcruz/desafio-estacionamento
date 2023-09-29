@@ -1,6 +1,8 @@
 # desafio-estacionamento
 #fluxo
+
 Mensagem de boas-vindas
+
 "Digite o preço inicial:"
 (usuário insere preço inicial)
 "Agora digite o preço por hora:"
